@@ -1,0 +1,33 @@
+Efforts Calculation - Application Composition Model
+---------------------------------------------------
+
+PM = NAP / PROD
+
+Where,
+
+PM = Efforts in Person Months
+NAP= Number of Application Points or Object Points
+PROD = Productivity as Object Points/Person Months (OP/PM)
+
+Suppose for a project
+
+NAP = 200 OP
+
+Productivity: 
+Developer Experience is Nominal & 
+CASE Maturity is High
+
+From Table: 
+
+Developer Experience = 13 (Nominal)
+CASE Maturity = 25 (High)
+
+Therefore,
+
+PROD = (13+25) ÷ 2 = 19 OP/ Person Months
+
+Now,
+
+PM = 200 OP ÷ 19 OP/Person Months
+
+PM = 10.5 Person Months
